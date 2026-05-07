@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+# Sistema-reserva
+=======
+# Sistema de Reserva de Salas
+
+Projeto desenvolvido para aplicação prática do SDLC.
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Python (Flask)
+- MySQL
+
+## Funcionalidades
+
+- Login de usuários
+- Reserva de salas
+- Listagem de reservas
+- Cancelamento de reservas
+- Controle de conflitos de horário

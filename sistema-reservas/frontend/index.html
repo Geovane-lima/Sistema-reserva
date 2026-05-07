@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Reservas</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="container" id="loginContainer">
+
+    <h1>SISTEMA DE RESERVAS</h1>
+
+    <input type="text" id="usuario" placeholder="Usuário">
+
+    <input type="password" id="senha" placeholder="Senha">
+
+    <button onclick="login()">Entrar</button>
+
+</div>
+
+<div class="container hidden" id="reservaContainer">
+
+    <h1>RESERVA DE SALAS</h1>
+
+    <select id="sala">
+        <option>Sala 01</option>
+        <option>Sala 02</option>
+        <option>Sala 03</option>
+    </select>
+
+    <input type="date" id="data">
+
+    <select id="horario">
+        <option>08:00 - 09:00</option>
+        <option>09:00 - 10:00</option>
+        <option>10:00 - 11:00</option>
+    </select>
+
+    <button onclick="reservar()">Reservar</button>
+
+    <h2>Reservas Existentes</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Sala</th>
+                <th>Data</th>
+                <th>Horário</th>
+                <th>Usuário</th>
+                <th>Ação</th>
+            </tr>
+        </thead>
+
+        <tbody id="listaReservas"></tbody>
+    </table>
+
+</div>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
