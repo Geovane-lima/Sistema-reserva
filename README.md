@@ -24,7 +24,7 @@ Para executar o sistema, foi utilizado o Visual Studio Code (VSCode) para desenv
 
 Passos para execução:
 - Abrir a pasta do projeto no VSCode;
-- - Instalar as dependências necessárias do Python e Flask;
+- Instalar as dependências necessárias do Python e Flask;
 - Configurar o banco de dados MySQL;
 - Executar a aplicação Flask pelo terminal do VSCode;
 - Abrir o arquivo index no navegador para acessar o sistema.
