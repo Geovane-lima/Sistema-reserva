@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Sistema-reserva
+
+# Hackers do Bem - Módulo 1 - Atividade 1 - Especialização DevOps e DevSecOps
 =======
 # Sistema de Reserva de Salas
 
