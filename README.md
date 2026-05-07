@@ -23,11 +23,11 @@ Projeto desenvolvido para aplicação prática do SDLC.
 Para executar o sistema, foi utilizado o Visual Studio Code (VSCode) para desenvolvimento e compilação da aplicação Flask. Também é necessário possuir o MySQL instalado e configurado na máquina para armazenamento dos dados do sistema.
 
 Passos para execução:
-1 - Abrir a pasta do projeto no VSCode;
-2 - Instalar as dependências necessárias do Python e Flask;
-3 - Configurar o banco de dados MySQL;
-4 - Executar a aplicação Flask pelo terminal do VSCode;
-5 - Abrir o arquivo index no navegador para acessar o sistema.
+- Abrir a pasta do projeto no VSCode;
+- - Instalar as dependências necessárias do Python e Flask;
+- Configurar o banco de dados MySQL;
+- Executar a aplicação Flask pelo terminal do VSCode;
+- Abrir o arquivo index no navegador para acessar o sistema.
 
 Credenciais de acesso:
 - Usuário: joao
