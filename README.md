@@ -30,7 +30,7 @@ Passos para execução:
 5 - Abrir o arquivo index no navegador para acessar o sistema.
 
 Credenciais de acesso:
-Usuário: joao
-Senha: 123
+- Usuário: joao
+- Senha: 123
 
 Após o login, o usuário poderá acessar as funcionalidades de reserva e gerenciamento das salas disponíveis no sistema.
